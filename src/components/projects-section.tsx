@@ -56,6 +56,30 @@ const ProjectCard: React.FC<ProjectCardProps> = ({
 const ProjectsSection: React.FC = () => {
   const projects = [
     {
+      title: "Healthy Fast Foods: KMeans and Visualization",
+      description: "In This project, I explored healthy fast foods and clustered them into three groups based on calorie count. Using these clusters, I identified the healthiest fast food category. This will help people avoid harmful fast foods.",
+      tags: ["Unsupervised Learning", "EDA", "Kaggle Notebook"],
+      imageUrl: "https://github.com/user-attachments/assets/aa2e5050-ef42-4c74-b331-664db4fbe968",
+      demoUrl: "#",
+      codeUrl: "#"
+    },
+    {
+      title: "Pneumonia Detection with CNN and ML with 98% Accuracy",
+      description: "I trained a CNN model using 17,000 X-ray images to build a model for pneumonia detection. The project includes a website for easy interaction with the model.",
+      tags: ["Deep Learning", "Python", "Kaggle Notebook"],
+      imageUrl: "https://github.com/user-attachments/assets/946487b2-3cfc-484e-8768-5854890ea378",
+      demoUrl: "#",
+      codeUrl: "#"
+    },
+    {
+      title: "Twitter Post Sentiment Prediction",
+      description: "Engineered an ETL pipeline with PySpark and SQL for sentiment analysis using NLP techniques. Monitored performance through MLFlow on Databricks.",
+      tags: ["NLP", "PySpark", "MLFlow"],
+      imageUrl: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=800&h=400",
+      demoUrl: "#",
+      codeUrl: "#"
+    },
+    {
       title: "Twitter Post Sentiment Prediction",
       description: "Engineered an ETL pipeline with PySpark and SQL for sentiment analysis using NLP techniques. Monitored performance through MLFlow on Databricks.",
       tags: ["NLP", "PySpark", "MLFlow"],

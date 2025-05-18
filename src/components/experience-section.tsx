@@ -75,13 +75,6 @@ const ExperienceSection: React.FC = () => {
       tags: ["PLC", "SCADA", "Automation"]
     },
     {
-      date: "Aug 2024 – Sept 2024",
-      title: "Python Developer Intern",
-      company: "Cei Design Consultancy Pvt. Ltd.",
-      description: "As a Python developer, specialized in data processing by utilizing Python and Excel for data tasks and OpenCV for image processing. Applied programming skills to solve complex data challenges.",
-      tags: ["Python", "OpenCV", "Data Processing"]
-    },
-    {
       date: "Aug 2023 – Oct 2023",
       title: "Subject Matter Expert Intern",
       company: "Ujucode",

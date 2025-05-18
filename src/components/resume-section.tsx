@@ -65,13 +65,6 @@ const ResumeSection: React.FC = () => {
                 </div>
                 
                 <div className="border-l-2 border-primary pl-4">
-                  <h4 className="font-medium">Python Developer Intern</h4>
-                  <p className="text-primary">Cei Design Consultancy Pvt. Ltd.</p>
-                  <p className="text-sm text-muted-foreground">Aug 2024 – Sept 2024</p>
-                  <p className="text-sm text-muted-foreground mt-2">Specialized in data processing using Python and Excel for data tasks and OpenCV for image processing.</p>
-                </div>
-                
-                <div className="border-l-2 border-primary pl-4">
                   <h4 className="font-medium">Subject Matter Expert Intern</h4>
                   <p className="text-primary">Ujucode</p>
                   <p className="text-sm text-muted-foreground">Aug 2023 – Oct 2023</p>
