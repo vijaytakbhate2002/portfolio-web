@@ -75,17 +75,17 @@ const ProjectsSection: React.FC = () => {
       title: "Twitter Post Sentiment Prediction",
       description: "Engineered an ETL pipeline with PySpark and SQL for sentiment analysis using NLP techniques. Monitored performance through MLFlow on Databricks.",
       tags: ["NLP", "PySpark", "MLFlow"],
-      imageUrl: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=800&h=400",
+      imageUrl: "https://raw.githubusercontent.com/vijaytakbhate2002/portfolio-web/main/public/Tweeter_post_sentiment.png",
       demoUrl: "https://www.linkedin.com/posts/vijay-takbhate-b9231a236_learning-day-31-integrating-database-activity-7264965901945315328-02wc?utm_source=share&utm_medium=member_desktop&rcm=ACoAADrHnx4Ba4HkdcW3hhRgbi-Dj08HJE4l5ZI",
       codeUrl: "https://github.com/vijaytakbhate2002/sentiment_prediction_python_package.git"
     },
     {
       title: "🏋️ Predicting Calorie 🚀 | EDA to Submission",
-      description: "his notebook walks through the end-to-end process of building a machine learning model to predict calorie expenditure based on physical activity data. We'll analyze the dataset, explore patterns, and train an efficient model to make accurate predictions.",
+      description: "This notebook walks through the end-to-end process of building a machine learning model to predict calorie expenditure based on physical activity data. We'll analyze the dataset, explore patterns, and train an efficient model to make accurate predictions.",
       tags: ["EDA", "Python", "Kaggle Notebook"],
-      imageUrl: "https://www.kaggle.com/code/vijay20213/predicting-calorie-eda-to-submission",
-      demoUrl: "#",
-      codeUrl: "#"
+      imageUrl: "https://raw.githubusercontent.com/vijaytakbhate2002/portfolio-web/main/public/Calories_Expanditure_Prediction.webp",
+      demoUrl: "https://www.kaggle.com/code/vijay20213/predicting-calorie-eda-to-submission",
+      codeUrl: "https://www.kaggle.com/code/vijay20213/predicting-calorie-eda-to-submission"
     },
     {
       title: "Text-Text Chat-Bot",
