@@ -91,7 +91,7 @@ const ProjectsSection: React.FC = () => {
       title: "Text-Text Chat-Bot",
       description: "Advanced Text-Text Chat-Bot using the NVIDIA API with prompt engineering for diverse functionalities including paraphrasing, grammar correction, and more.",
       tags: ["LLM", "Flask", "NVIDIA API", "HTML", "CSS"],
-      imageUrl: "https://images.unsplash.com/photo-1677442136019-21780ecad995?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=800&h=400",
+      imageUrl: "https://raw.githubusercontent.com/vijaytakbhate2002/portfolio-web/main/public/chatbot_project.png",
       demoUrl: "https://github.com/vijaytakbhate2002/Text-Text-Generator.git",
       codeUrl: "https://github.com/vijaytakbhate2002/Text-Text-Generator.git"
     },
@@ -99,7 +99,7 @@ const ProjectsSection: React.FC = () => {
       title: "Hand Gesture Recognition",
       description: "Leveraged Google's MediaPipe framework to detect hand landmarks and gestures with a custom CNN model, developed into a Streamlit application.",
       tags: ["MediaPipe", "CNN", "Streamlit"],
-      imageUrl: "https://images.unsplash.com/photo-1591258370814-01609b341790?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=800&h=400",
+      imageUrl: "https://raw.githubusercontent.com/vijaytakbhate2002/portfolio-web/main/public/hand_gesture_recognition.png",
       demoUrl: "#",
       codeUrl: "#"
     }
