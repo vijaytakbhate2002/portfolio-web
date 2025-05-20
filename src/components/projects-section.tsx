@@ -79,14 +79,14 @@ const ProjectsSection: React.FC = () => {
       demoUrl: "https://www.linkedin.com/posts/vijay-takbhate-b9231a236_learning-day-31-integrating-database-activity-7264965901945315328-02wc?utm_source=share&utm_medium=member_desktop&rcm=ACoAADrHnx4Ba4HkdcW3hhRgbi-Dj08HJE4l5ZI",
       codeUrl: "https://github.com/vijaytakbhate2002/sentiment_prediction_python_package.git"
     },
-    // {
-    //   title: "🏋️ Predicting Calorie Expenditure 🚀 | EDA to Submission",
-    //   description: "This notebook walks through the end-to-end process of building a machine learning model to predict calorie expenditure based on physical activity data. We'll analyze the dataset, explore patterns, and train an efficient model to make accurate predictions.",
-    //   tags: ["EDA", "Python", "Kaggle Notebook"],
-    //   imageUrl: "https://raw.githubusercontent.com/vijaytakbhate2002/portfolio-web/main/public/Calories_Expanditure_Prediction.jpg",
-    //   demoUrl: "https://www.kaggle.com/code/vijay20213/predicting-calorie-eda-to-submission",
-    //   codeUrl: "https://www.kaggle.com/code/vijay20213/predicting-calorie-eda-to-submission"
-    // },
+    {
+      title: "🏋️ Predicting Calorie Expenditure 🚀 | EDA to Submission",
+      description: "This notebook walks through the end-to-end process of building a machine learning model to predict calorie expenditure based on physical activity data. We'll analyze the dataset, explore patterns, and train an efficient model to make accurate predictions.",
+      tags: ["EDA", "Python", "Kaggle Notebook"],
+      imageUrl: "https://raw.githubusercontent.com/vijaytakbhate2002/portfolio-web/main/public/Calories_Expanditure_Prediction.jpg",
+      demoUrl: "https://www.kaggle.com/code/vijay20213/predicting-calorie-eda-to-submission",
+      codeUrl: "https://www.kaggle.com/code/vijay20213/predicting-calorie-eda-to-submission"
+    },
     {
       title: "Text-Text Chat-Bot",
       description: "Advanced Text-Text Chat-Bot using the NVIDIA API with prompt engineering for diverse functionalities including paraphrasing, grammar correction, and more.",
