@@ -64,8 +64,8 @@ const ExperienceSection: React.FC = () => {
       date: "Dec 2024 - Present",
       title: "Risk Analyst",
       company: "Incred Financial Services",
-      description: "Working as a Risk Analyst since December 4th, 2024, analyzing financial data and identifying potential risks. Utilizing data-driven approaches to support decision-making processes and implementing risk mitigation strategies.",
-      tags: ["Risk Analysis", "Data Analytics", "Financial Services"]
+      description: "Working on the PowerCurve decisioning tool to code, program, and deploy financial policies. Responsible for policy verification in the Testing environment, identifying vulnerabilities using Python, SQL, and Excel. Developed custom Python packages to automate verification tasks, improving efficiency and accuracy in decision logic",
+      tags: ["Data Analytics", "Financial Services"]
     },
     {
       date: "Jun 2024 – Oct 2024",
