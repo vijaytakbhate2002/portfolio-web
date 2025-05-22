@@ -7,7 +7,7 @@ import { SiMedium } from 'react-icons/si';
 
 const HeroSection: React.FC = () => {
   const { typedText, cursor } = useTypedText(
-    ['AI Engineer', 'ML Enthusiast', 'Python Developer', 'Data Specialist'],
+    ['AI Enthusiast', 'ML Enthusiast', 'Python Developer', 'Data Specialist'],
     100,
     2000
   );
